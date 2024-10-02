@@ -1,0 +1,1 @@
+# plugins-addonify-compare-products
